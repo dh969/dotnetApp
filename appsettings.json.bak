@@ -1,0 +1,17 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Warning",
+      "Microsoft": "Information",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+ "DefaultConnection": "Server=sample00058.database.windows.net;Database=BookEvent;Integrated Security=false;User ID=sysadmin; Password=Dhruv@22102001;"
+  },
+  "loginpath": "/login",
+  "entityFramework": {
+
+  }
+}
